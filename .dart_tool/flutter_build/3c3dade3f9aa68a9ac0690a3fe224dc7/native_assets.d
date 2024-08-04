@@ -1,0 +1,1 @@
+ /Users/xiaosiqi/Desktop/Udemy/Bus-Ticket-Booking-App/.dart_tool/flutter_build/3c3dade3f9aa68a9ac0690a3fe224dc7/native_assets.yaml: 
